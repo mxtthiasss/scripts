@@ -10,7 +10,7 @@
 ## Maintainer:                                                                ##
 ##  - Matthias                                                                ##
 ##    - Github: @mxtthiasss                                                   ##
-##    - Matrix: @mxtthiass:matrix.org                                         ##
+##    - Matrix: @matthias:matrix.yasuakii.com                                         ##
 ##    - email : mxtthiass@yasuakii.com                                        ##
 ## Contributors:                                                              ##
 ##  -                                                                         ##
